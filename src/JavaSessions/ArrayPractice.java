@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ArrayPractice {
 
 	public static void main(String[] args)
-	{
+	{//
 		int i[] = {0,1,2};
 		//i[0] = 10;
 		//i[1] = 20;
